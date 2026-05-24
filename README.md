@@ -64,8 +64,10 @@ Building **RAG systems, ML pipelines & scalable backend APIs**
 
 ## 🏆 Achievements
 
-- 400+ LeetCode (Rating: 1651)  
-- Top 4% — JEE Mains  
+- **GATE 2026 (CS):** Achieved a score of 450
+- **JEE Advanced:** Secured an All India Rank within the top 20,000
+- **JEE Mains:** 96+ Percentile (Top 4% nationwide)
+- **LeetCode:** Solved 400+ problems (Peak Rating: 1651)
 
 ---
 
