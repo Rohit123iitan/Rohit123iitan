@@ -4,7 +4,7 @@
 
 <h1>Hey 👋, I'm Rohit Kumar</h1>
 
-**ML / AI Engineer · ex-Tata Power Solar**  
+**AI / GenAI Engineer | LLMs | RAG | LangGraph | LangChain | FastAPI | Python**  
 Building **RAG systems, ML pipelines & scalable backend APIs**
 
 📍 Bangalore | Open to ML/AI roles
