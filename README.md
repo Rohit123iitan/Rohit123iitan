@@ -1,76 +1,108 @@
-<table width="100%">
-<tr>
-<td valign="top" width="55%">
+<!--
+Profile README for Rohit Kumar.
+Animated SVGs live in assets/. The original portrait PNGs are preserved in the repository root.
+Metrics below are limited to resume-supported claims; GitHub repository counts are intentionally omitted.
+-->
 
-<h1>Hey 👋, I'm Rohit Kumar</h1>
+<div align="center">
 
-**AI / GenAI Engineer | LLMs | RAG | LangGraph | LangChain | FastAPI | Python**  
-Building **RAG systems, ML pipelines & scalable backend APIs**
+# Hey, I'm Rohit Kumar 👋
 
-📍 Bangalore | Open to ML/AI roles
+### Backend Engineer · Full-Stack AI Developer · GenAI Builder
 
-<br/>
+**I build reliable Python APIs, retrieval-augmented applications, and multi-agent workflows.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-strong-ai-ml/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rohit_1_23/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://Rohit123iitian.github.io)
+📍 Bengaluru, India · Full Stack AI Developer at Brightpath Technology & Services
 
-</td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-247bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-strong-ai-ml/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-070b16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit123iitan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-ff354f?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rohit_1_23/)
+[![Email](https://img.shields.io/badge/Email-Contact-247bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r2k24j@gmail.com)
 
-<td valign="top" width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Highlights
+## ✦ Profile
 
-- Built **RAG-based LLM apps** (LangChain + Ollama)
-- Designed **data systems for 500+ components**
-- Reduced reporting effort by **70%**
-- Strong in **ML + Backend + Data Engineering**
+<img align="right" width="34%" alt="Rohit Kumar — illustrated portrait" src="Cinematic%20Blue%20and%20Red%20Rim-Lit%20Portrait.png" />
+
+- Build and maintain **FastAPI services** with rule-based routing, RAG retrieval, and Pydantic-validated contracts.
+- Debug production workflows across configuration, rule ordering, and structured data extraction.
+- Ship backend APIs and relational data models; work with PostgreSQL, SQLite, Redis, Celery, and Docker.
+- Independently built a factory inventory application used to track **500+ components**, reducing manual reporting effort by **70%**.
+- Explore local-first RAG and agentic workflows with Ollama, Sentence Transformers, LangChain, and LangGraph.
+
+<br clear="right"/>
+
+## ✦ Animated profile
+
+> The SVG panels below are designed for GitHub's README width and use a navy / electric-blue / crimson visual theme.
+
+![Animated hero panel](assets/hero.svg?v=1)
+
+![About and interests](assets/about-life.svg?v=1)
+
+![Technology stack](assets/stack.svg?v=1)
+
+![Developer ID dashboard](assets/id-dashboard.svg?v=1)
+
+![Connect with Rohit](assets/connect.svg?v=1)
+
+## ✦ Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Trading Strategy](https://github.com/Rohit123iitan/Trading_strategy) | Quantitative strategy research with backtesting, walk-forward analysis, and performance evaluation. | Python, Backtrader |
+| [GenAI RAG Discord Bot](https://github.com/Rohit123iitan/genai-bot) | Local-first document Q&A with embeddings, SQLite vector search, per-user conversation memory, caching, and source traceability. | Python, Sentence Transformers, SQLite, Ollama |
+| [Multi-Agent AI Essay Writer](https://github.com/Rohit123iitan/Email_writer) | LangGraph workflow to plan, research, draft, critique, and revise long-form writing with coordinated agent roles. | Python, LangGraph, LangChain |
+| Cinemaghar | Multi-user ticket-booking application with relational data, role-based access, Redis caching, and asynchronous reporting tasks. | Flask, SQL, Redis, Celery |
+| Factory Inventory Application | Full-stack inventory tool for 500+ components, deployed for concurrent use over a local factory network. | Flask, SQL, REST APIs, Pandas |
+
+## ✦ Tech stack
+
+**Languages:** Python · SQL · Java · JavaScript  
+**Backend:** FastAPI · Flask · REST APIs · Pydantic · SSO/OAuth  
+**Data & infrastructure:** PostgreSQL · SQLite · Redis · Celery · Docker · Git/GitHub  
+**AI / GenAI:** RAG · LangChain · LangGraph · Sentence Transformers · Ollama  
+**Foundations:** Data Structures & Algorithms · OOP · Database Design · HLD/LLD · Scalability
+
+## ✦ Experience
+
+**Full Stack AI Developer — Brightpath Technology & Services Pvt. Ltd.**  
+*June 2026 – Present · Bengaluru*
+
+- Maintain backend components of a multi-stage FastAPI service combining rule-based logic and RAG retrieval.
+- Define structured request/response contracts using Pydantic and debug production pipeline issues.
+- Containerize backend and frontend services with Docker and support SSO/OAuth integration.
+- Review and troubleshoot notification APIs and workflow behavior.
+
+**Lead Engineer, Module Maintenance — Tata Power Solar Systems Ltd.**  
+*May 2024 – November 2025 · Bengaluru*
+
+- Identified spreadsheet-based inventory reporting as a bottleneck and independently built a full-stack application.
+- Owned schema design, REST API implementation, Pandas-based data handling, and deployment.
+- Reduced manual reporting effort by **70% across 500+ components**.
+
+## ✦ Education & achievements
+
+- **NIT Agartala** — B.Tech, Electrical Engineering, 2024 · CGPA **8.66/10**
+- **IIT Madras** — BS in Programming and Data Science (online)
+- **GATE CS 2026:** Score **450**
+- **JEE Advanced:** All India Rank within the top 20,000
+- **JEE Main:** **96+ percentile**
+- **LeetCode:** 400+ problems solved · peak rating **1651**
+- **Certification:** Deep Learning Specialization — DeepLearning.AI
 
 ---
 
-## 💼 Experience
+<div align="center">
 
-**Lead Engineer — Tata Power Solar**  
-*May 2024 – Nov 2025*
+**Interested in backend engineering, developer infrastructure, and practical GenAI systems.**
 
-- Built analytics platform for inventory tracking  
-- Designed optimized **SQL schemas + APIs**  
-- Developed **Flask-based backend services**  
-- Created **data pipelines (Pandas)**  
+[LinkedIn](https://www.linkedin.com/in/rohit-kumar-strong-ai-ml/) ·
+[GitHub](https://github.com/Rohit123iitan) ·
+[LeetCode](https://leetcode.com/u/rohit_1_23/) ·
+[Email](mailto:r2k24j@gmail.com)
 
----
-
-## 🧠 Projects
-
-**🤖 RAG Discord Bot** — End-to-end RAG + local LLM  
-**📊 Sentiment Classifier** — TF-IDF + ML pipeline  
-**🎬 Ticket System** — RBAC + Redis + Celery  
-
----
-
-## 🛠️ Tech
-
-`Python` `SQL` `ML/NLP` `RAG` `LangChain` `Flask` `Redis`
-
----
-
-## 🏆 Achievements
-
-- **GATE 2026 (CS):** Achieved a score of 450
-- **JEE Advanced:** Secured an All India Rank within the top 20,000
-- **JEE Mains:** 96+ Percentile (Top 4% nationwide)
-- **LeetCode:** Solved 400+ problems (Peak Rating: 1651)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohit123iitian&style=flat-square&color=00d4aa" />
-</p>
+</div>
