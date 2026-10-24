@@ -53,7 +53,7 @@ Metrics below are limited to resume-supported claims; GitHub repository counts a
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Trading Strategy](https://github.com/Rohit123iitan/Trading_strategy) | Quantitative strategy research with backtesting, walk-forward analysis, and performance evaluation. | Python, Backtrader |
+| [Trading Strategy *(private repository)*](https://github.com/Rohit123iitan/Trading_strategy) | Quantitative strategy research with backtesting, walk-forward analysis, and performance evaluation. Access is limited to repository collaborators. | Python, Backtrader |
 | [GenAI RAG Discord Bot](https://github.com/Rohit123iitan/genai-bot) | Local-first document Q&A with embeddings, SQLite vector search, per-user conversation memory, caching, and source traceability. | Python, Sentence Transformers, SQLite, Ollama |
 | [Multi-Agent AI Essay Writer](https://github.com/Rohit123iitan/Email_writer) | LangGraph workflow to plan, research, draft, critique, and revise long-form writing with coordinated agent roles. | Python, LangGraph, LangChain |
 | Cinemaghar | Multi-user ticket-booking application with relational data, role-based access, Redis caching, and asynchronous reporting tasks. | Flask, SQL, Redis, Celery |
