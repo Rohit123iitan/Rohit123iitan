@@ -18,4 +18,18 @@
 ![ID](./assets/id-dashboard.svg?v=1)
 ![Connect](./assets/connect.svg?v=1)
 
-[LinkedIn](https://www.linkedin.com/in/rohit-kumar-strong-ai-ml/) · [LeetCode](https://leetcode.com/u/rohit_1_23/) · [GitHub](https://github.com/Rohit123iitan)
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-kumar-strong-ai-ml/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/rohit_1_23/">
+    <img src="https://img.shields.io/badge/LeetCode-FF2D55?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rohit123iitan">
+    <img src="https://img.shields.io/badge/GitHub-161B2C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
